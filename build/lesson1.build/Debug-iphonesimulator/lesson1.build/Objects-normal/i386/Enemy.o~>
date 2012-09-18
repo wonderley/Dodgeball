@@ -1,0 +1,3 @@
+In file included from /Users/lucaswonderley/xcode/lesson1/Classes/Enemy.m:9:
+/Users/lucaswonderley/xcode/lesson1/Classes/Enemy.h:16: error: expected specifier-qualifier-list before 'CircleNode'
+/Users/lucaswonderley/xcode/lesson1/Classes/Enemy.m:13: error: no declaration of property 'myCircle' found in the interface

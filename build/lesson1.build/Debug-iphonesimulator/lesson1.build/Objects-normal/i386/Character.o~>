@@ -1,0 +1,2 @@
+/Users/lucaswonderley/xcode/lesson1/Classes/Character.m:16: warning: incomplete implementation of class 'Character'
+/Users/lucaswonderley/xcode/lesson1/Classes/Character.m:16: warning: method definition for '-doesCollideWithRect:' not found
